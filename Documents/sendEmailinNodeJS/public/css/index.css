@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+form {
+    text-align: center;
+    padding: 2%;
+    background-color: lightgray; 
+    font-family: 'Courier New', Courier, monospace;
+}
