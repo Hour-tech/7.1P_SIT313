@@ -1,0 +1,18 @@
+.searchBar {
+    display: flex;
+    align-items: center;
+    width: 1000px;
+}
+
+/* .me-2 {
+    align-items: center;
+} */
+
+.searchBar input {
+    padding-left: 35px;
+}
+
+.searchBar .searchbar {
+    position: relative;
+    left: 30px;
+}
